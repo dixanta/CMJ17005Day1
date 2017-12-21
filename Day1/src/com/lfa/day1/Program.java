@@ -13,6 +13,7 @@ public class Program {
     
     public static void main(String[] args){
         System.out.println("Hello CMJ-17-005");
+        System.out.println("Hello CMJ-17-005 ke chha halkhabar");
     }
     
 }
